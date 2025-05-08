@@ -19,12 +19,14 @@ From the figure above: Pop is the most common genre in the dataset, with about 2
 2. Energy vs Popularity
 
 ![alt text](image-1.png)
+
 The Energy vs Popularity implies that energy doesn't directly affect popularity and other features might matter more (like genre, danceability).
 
 
 3. Distribution of danceability
 
 ![alt text](image-2.png)
+
 From the figure above: Most tracks in the dataset were released in 2020, followed by 2019 and 2018.This suggests the dataset is heavily weighted toward recent years, especially 2017–2021.
 
 
@@ -32,6 +34,7 @@ From the figure above: Most tracks in the dataset were released in 2020, followe
 4. Histogram: Distribution of danceability
 
 ![alt text](image-3.png)
+
  The above Histogram suggests that most songs have moderate danceability, rather than extreme high or low values.
 
 

@@ -10,27 +10,41 @@ This project aims to leverage Spotify's user and music data to gain valuable ins
 The dataset provides rich information that can help us understand musical trends, track characteristics, and user engagement. By analyzing audio features alongside popularity metrics, we can uncover patterns that might help with improving music recommendation systems, playlist curation, and targeted marketing efforts. It will also allow for more in-depth exploration of how various factors such as genre, tempo, or mood influence a track's success on the platform.
 
 # ANALYSIS
-1. Top 15 genres by count
-![alt text](image.png)
+#### 1. Top 15 genres by count
+
+ ![alt text](image.png)
+
 
 From the figure above: Pop is the most common genre in the dataset, with about 250 tracks labeled as pop, indicating a mainstream music focus.
 
-2. Energy vs Popularity
+
+
+#### 2. Energy vs Popularity
 
 ![alt text](image-1.png)
+
+
 The Energy vs Popularity implies that energy doesn't directly affect popularity and other features might matter more (like genre, danceability).
 
-3. Distribution of danceability
+
+
+#### 3. Distribution of danceability
 
 ![alt text](image-2.png)
+
+
 From the figure above: Most tracks in the dataset were released in 2020, followed by 2019 and 2018.This suggests the dataset is heavily weighted toward recent years, especially 2017–2021.
 
-4. Histogram: Distribution of danceability
+
+
+#### 4. Histogram: Distribution of danceability
 
 ![alt text](image-3.png)
+
+
  The above Histogram suggests that most songs have moderate danceability, rather than extreme high or low values.
 
-
+# TABLEAU
 
 # CONCLUSION
 1. High energy and danceability scores are typically associated with tracks that have higher popularity. Tracks that are upbeat and easy to dance to tend to be more engaging for listeners.

@@ -12,7 +12,7 @@ The dataset provides rich information that can help us understand musical trends
 # ANALYSIS
 #### 1. Top 15 genres by count
 
- ![alt text](image.png)
+ ![alt text](Images/image.png)
 
 
 From the figure above: Pop is the most common genre in the dataset, with about 250 tracks labeled as pop, indicating a mainstream music focus.
@@ -21,7 +21,7 @@ From the figure above: Pop is the most common genre in the dataset, with about 2
 
 #### 2. Energy vs Popularity
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 
 The Energy vs Popularity implies that energy doesn't directly affect popularity and other features might matter more (like genre, danceability).
@@ -30,7 +30,7 @@ The Energy vs Popularity implies that energy doesn't directly affect popularity 
 
 #### 3. Distribution of danceability
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 
 From the figure above: Most tracks in the dataset were released in 2020, followed by 2019 and 2018.This suggests the dataset is heavily weighted toward recent years, especially 2017–2021.
@@ -39,7 +39,7 @@ From the figure above: Most tracks in the dataset were released in 2020, followe
 
 #### 4. Histogram: Distribution of danceability
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 
  The above Histogram suggests that most songs have moderate danceability, rather than extreme high or low values.

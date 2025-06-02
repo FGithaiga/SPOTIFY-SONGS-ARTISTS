@@ -44,8 +44,6 @@ From the figure above: Most tracks in the dataset were released in 2020, followe
 
  The above Histogram suggests that most songs have moderate danceability, rather than extreme high or low values.
 
-# TABLEAU
-
 # CONCLUSION
 1. High energy and danceability scores are typically associated with tracks that have higher popularity. Tracks that are upbeat and easy to dance to tend to be more engaging for listeners.
 2. Acousticness tends to be higher in genres like folk and indie music, which often feature more subtle, less commercialized soundscapes.
